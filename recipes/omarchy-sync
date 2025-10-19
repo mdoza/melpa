@@ -1,0 +1,4 @@
+(omarchy-sync
+ :fetcher github
+ :repo "mdoza/omarchy-sync"
+ :files ("omarchy-sync.el"))
